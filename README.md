@@ -23,3 +23,5 @@ docker compose up -d --build
 chmod 755 start.sh
 sh start.sh
 ```
+
+![alt text](Jwt.jpeg)
